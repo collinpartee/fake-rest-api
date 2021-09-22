@@ -1,0 +1,13 @@
+{
+    "Categories": [
+        { "name": "literature", "image": "https://images.template.net/wp-content/uploads/2017/02/03200504/Traditional-African-Pattern.jpg?width=600"},
+        { "name": "politics", "image": "https://images.template.net/wp-content/uploads/2017/02/03213122/Black-and-White-African-Pattern.jpg?width=600"},
+        { "name": "global", "image": "https://images.template.net/wp-content/uploads/2017/02/03201052/Colorful-African-Pattern.jpg?width=600"},
+        { "name": "self-made", "image": "https://images.template.net/wp-content/uploads/2017/02/03212822/African-Striped-Pattern2.jpg?width=600"},
+        { "name": "music", "image": "https://png.pngtree.com/element_our/png_detail/20180929/tribal-seamless-pattern-png_121224.jpg"},
+        { "name": "firsts", "image": "https://png.pngtree.com/element_our/png_detail/20180929/tribal-seamless-pattern-png_121227.jpg"},
+        { "name": "science", "image": "https://png.pngtree.com/element_our/png_detail/20180929/tribal-seamless-pattern-png_121229.jpg"},
+        { "name": "sports", "image": "https://images.template.net/wp-content/uploads/2017/02/03200504/Traditional-African-Pattern.jpg?width=600"},
+        { "name": "art", "image": "https://images.template.net/wp-content/uploads/2017/02/03213122/Black-and-White-African-Pattern.jpg?width=600"}
+    ]
+}
