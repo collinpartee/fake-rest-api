@@ -1,0 +1,176 @@
+{
+    "TotalResults": 9,
+    "Results": [
+        {
+            "_id": "5MBV1XkBcvO1vMW8wsQz",
+            "date": "",
+            "length": 81,
+            "status": "approved",
+            "people": [
+                "Chuck Berry"
+            ],
+            "text": "Before becoming a professional musician, Chuck Berry studied to be a hairdresser.",
+            "source": "https://www.britannica.com/biography/Chuck-Berry",
+            "id": 1503057302,
+            "createdBy": "collin",
+            "createdDateTime": "2021-05-25T20:49:25.567Z",
+            "tags": [
+                "",
+                "music"
+            ],
+            "imgUrl": "https://black-history-api-pics.s3.amazonaws.com/chuck-berry.jpeg"
+        },
+        {
+            "_id": "7psXIXcBOUdTS9CFZrDZ",
+            "people": [
+                "Bob Marley"
+            ],
+            "tags": [
+                "Bob Marley",
+                "Jamaica",
+                "reggea"
+            ],
+            "createdDate": {
+                "_seconds": 1559606595,
+                "_nanoseconds": 422000000
+            },
+            "source": "urbanintellectuals.com",
+            "text": "Bob Marley was a Jamaican sing-songwriger, musician, guitarist and activist",
+            "createdBy": "Collin",
+            "length": 75
+        },
+        {
+            "_id": "3cBR1XkBcvO1vMW8hMS_",
+            "date": "",
+            "length": 49,
+            "status": "approved",
+            "people": [
+                "Aretha Franklin"
+            ],
+            "text": "Aretha Franklin is the undisputed \"Queen of Soul\"",
+            "source": "https://taskandpurpose.com/entertainment/aretha-franklin-vietnam-chain-fools/",
+            "id": 166113807,
+            "createdBy": "neal",
+            "createdDateTime": "2021-03-29T23:13:32.693Z",
+            "tags": [
+                "music"
+            ]
+        },
+        {
+            "_id": "SJM-_ncBafYqhmnQfzBj",
+            "date": "",
+            "imageUrl": "https://black-history-api-pics.s3.amazonaws.com/billie-holiday3.jpg",
+            "length": 132,
+            "status": "approved",
+            "people": [
+                "Billie Holiday"
+            ],
+            "text": "Billie Holiday's famous song \"Strange Fruit\" is a lyrical, horrifying description of a lynching. Which were still happening in 1939.",
+            "source": "",
+            "id": 1058557985,
+            "createdBy": "neal",
+            "createdDateTime": "2021-02-26T20:28:37.364Z",
+            "tags": [
+                "music"
+            ]
+        },
+        {
+            "_id": "7sBV1XkBcvO1vMW8w8Qm",
+            "date": "",
+            "length": 89,
+            "status": "approved",
+            "people": [
+                "Aretha Franklin"
+            ],
+            "text": "Aretha Franklin was the first female inductee into the Rock and Roll Hall Of Fame in 1987",
+            "source": "https://taskandpurpose.com/entertainment/aretha-franklin-vietnam-chain-fools/",
+            "id": 2408951801,
+            "createdBy": "neal",
+            "createdDateTime": "2021-03-29T23:12:46.001Z",
+            "tags": [
+                "firsts",
+                "music"
+            ],
+            "imgUrl": "https://black-history-api-pics.s3.amazonaws.com/aretha-franklin.jpeg"
+        },
+        {
+            "_id": "RpM-_ncBafYqhmnQfzA1",
+            "date": "1935-09-13",
+            "imageUrl": "https://black-history-api-pics.s3.amazonaws.com/billie-holiday2.jpg",
+            "length": 112,
+            "status": "approved",
+            "people": [
+                "Billie Holiday",
+                "Duke Ellington"
+            ],
+            "text": "Billie Holiday made her big screen debut in Duke Ellington's Symphony in Black: A Rhapsody of Negro Life in 1935",
+            "source": "https://en.wikipedia.org/wiki/Symphony_in_Black",
+            "id": 570647698,
+            "createdBy": "neal",
+            "createdDateTime": "2021-02-26T21:13:23.300Z",
+            "tags": [
+                "music",
+                "film",
+                "firsts"
+            ]
+        },
+        {
+            "_id": "RJM-_ncBafYqhmnQfjDi",
+            "date": "",
+            "imageUrl": "https://black-history-api-pics.s3.amazonaws.com/rudy-ray-moore.jpg",
+            "length": 100,
+            "status": "approved",
+            "people": [
+                "Rudy Ray Moore",
+                "Dolemite"
+            ],
+            "text": "Rudy Ray Moore was the first comic to have 2 comedy albums on Billboard Soul charts at the same time",
+            "source": "https://www.rudyraymoore.com/bio",
+            "id": 1052238123,
+            "createdBy": "neal",
+            "createdDateTime": "2021-02-20T19:35:27.481Z",
+            "tags": [
+                "music"
+            ]
+        },
+        {
+            "_id": "CJsXIXcBOUdTS9CFZrHf",
+            "createdDate": {
+                "_seconds": 1559607442,
+                "_nanoseconds": 623000000
+            },
+            "people": [
+                "Bob Marley"
+            ],
+            "tags": [
+                "Jamaica",
+                "reggae",
+                "politics"
+            ],
+            "createdBy": "Collin",
+            "source": "urbanintellectuals.com",
+            "length": 170,
+            "text": "Bob Marley's music became closely associated with the movement toward Black political independence, prominent in America and several African and South American countries."
+        },
+        {
+            "_id": "R5M-_ncBafYqhmnQfzBN",
+            "date": "",
+            "imageUrl": "https://black-history-api-pics.s3.amazonaws.com/billie-holiday4.jpg",
+            "length": 208,
+            "status": "approved",
+            "people": [
+                "Billie Holiday",
+                "Count Basie"
+            ],
+            "text": "Billie Holiday was one of the first black women to work with a white orchestra. She was the first black woman to be employed full time as a vocalist and tour the segregated U.S. South with a white bandleader.",
+            "source": "https://en.wikipedia.org/wiki/Billie_Holiday",
+            "id": 2876793061,
+            "createdBy": "neal",
+            "createdDateTime": "2021-02-26T21:30:22.048Z",
+            "tags": [
+                "music",
+                "firsts"
+            ]
+        }
+    ]
+}

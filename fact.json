@@ -1,0 +1,23 @@
+{
+    "TotalResults": 1,
+    "Results": [
+      {
+        "date": "",
+        "imageUrl": "https://black-history-api-pics.s3.amazonaws.com/rudy-ray-moore.jpg",
+        "length": 100,
+        "status": "approved",
+        "people": [
+          "Rudy Ray Moore",
+          "Dolemite"
+        ],
+        "text": "Rudy Ray Moore was the first comic to have 2 comedy albums on Billboard Soul charts at the same time",
+        "source": "https://www.rudyraymoore.com/bio",
+        "id": 1052238123,
+        "createdBy": "neal",
+        "createdDateTime": "2021-02-20T19:35:27.481Z",
+        "tags": [
+          "music"
+        ]
+      }
+    ]
+  }
