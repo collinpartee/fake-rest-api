@@ -18,7 +18,8 @@
                 "",
                 "music"
             ],
-            "imgUrl": "https://black-history-api-pics.s3.amazonaws.com/chuck-berry.jpeg"
+            "imgUrl": "https://black-history-api-pics.s3.amazonaws.com/chuck-berry.jpeg",
+            "name": "Cameron wears wigs"
         },
         {
             "_id": "7psXIXcBOUdTS9CFZrDZ",
